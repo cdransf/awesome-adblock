@@ -17,12 +17,14 @@ Advertising on the web has grown to a point where it's pervasive, manipulative a
 - [Privacy Badger](https://privacybadger.org)
 - [Disable Page Visibility API](https://addons.mozilla.org/en-US/firefox/addon/disable-page-visibility/)
 - [ClearURLs](https://addons.mozilla.org/en-US/firefox/addon/clearurls/)
+- [DecentralEyes](https://addons.mozilla.org/en-US/firefox/addon/decentraleyes/)
 
 ### Chrome    
 - [uBlock Origin](https://ublockorigin.com)
 - [Privacy Badger](https://privacybadger.org)
 - [Disable Page Visibility API](https://chrome.google.com/webstore/detail/disable-page-visibility-a/eecfoibnnhheckhfokpihgefmlnenofb)
 - [ClearURLs](https://chrome.google.com/webstore/detail/clearurls/lckanjgmijmafbedllaakclkaicjfmnk)
+- [DecentralEyes](https://chrome.google.com/webstore/detail/decentraleyes/ldpochfccmkkmhdbclfhpagapcfdljkj)
 
 ## DNS filtering and firewalls    
 - [1Blocker](https://1blocker.com): in addition to blocking ads, the app provides an on-device firewall to mitigate in-app tracking and logging.

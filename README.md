@@ -11,6 +11,7 @@ Advertising on the web has grown to a point where it's pervasive, manipulative a
 4. [Cookie consent](#cookie-consent)
 5. [YouTube / video](#youtube--video)
 6. [Masked email](#masked-email)
+7. [VPNs](#vpns)
 
 ### Browser-based blocking
 
@@ -37,6 +38,8 @@ Advertising on the web has grown to a point where it's pervasive, manipulative a
 ### Network / DNS blocking
 - [NextDNS](https://nextdns.io)
 - [Pi-hole](https://pi-hole.net)
+- [Quad9](https://quad9.net)
+- [AdGuard](https://adguard-dns.io)
 - [1Blocker](https://1blocker.com): in addition to blocking ads, the app provides an on-device firewall to mitigate in-app tracking and logging.
 
 ### Userscripts    
@@ -66,3 +69,8 @@ Advertising on the web has grown to a point where it's pervasive, manipulative a
 ### Masked email
 - [Fastmail](https://fastmail.com): [see their support document.](https://www.fastmail.help/hc/en-us/articles/4406536368911-Masked-Email)
 - [SimpleLogin](https://simplelogin.io)
+
+### VPNs
+- [Mullvad](https://mullvad.net)
+- [Proton VPN](https://protonvpn.com)
+- [IVPN](https://www.ivpn.net)

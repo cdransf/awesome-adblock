@@ -27,6 +27,7 @@ Advertising on the web has grown to a point where it's pervasive, manipulative a
 - [Disable Page Visibility API](https://addons.mozilla.org/en-US/firefox/addon/disable-page-visibility/)
 - [ClearURLs](https://addons.mozilla.org/en-US/firefox/addon/clearurls/)
 - [DecentralEyes](https://addons.mozilla.org/en-US/firefox/addon/decentraleyes/)
+- [NoScript](https://addons.mozilla.org/en-US/firefox/addon/noscript/)
 
 #### Chrome    
 - [uBlock Origin](https://ublockorigin.com)
@@ -34,6 +35,7 @@ Advertising on the web has grown to a point where it's pervasive, manipulative a
 - [Disable Page Visibility API](https://chrome.google.com/webstore/detail/disable-page-visibility-a/eecfoibnnhheckhfokpihgefmlnenofb)
 - [ClearURLs](https://chrome.google.com/webstore/detail/clearurls/lckanjgmijmafbedllaakclkaicjfmnk)
 - [DecentralEyes](https://chrome.google.com/webstore/detail/decentraleyes/ldpochfccmkkmhdbclfhpagapcfdljkj)
+- [NoScript](https://chrome.google.com/webstore/detail/noscript/doojmbjmlfjjnbmnoijecmcbfeoakpjm)
 
 ### Network / DNS blocking
 - [NextDNS](https://nextdns.io)

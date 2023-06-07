@@ -30,7 +30,7 @@ Advertising on the web has grown to a point where it's pervasive, manipulative a
 - [NoScript](https://addons.mozilla.org/en-US/firefox/addon/noscript/)
 
 #### Chrome    
-- [uBlock Origin](https://ublockorigin.com)
+- [uBlock Origin](https://ublockorigin.com)[^1]
 - [Privacy Badger](https://privacybadger.org)
 - [Disable Page Visibility API](https://chrome.google.com/webstore/detail/disable-page-visibility-a/eecfoibnnhheckhfokpihgefmlnenofb)
 - [ClearURLs](https://chrome.google.com/webstore/detail/clearurls/lckanjgmijmafbedllaakclkaicjfmnk)
@@ -76,3 +76,5 @@ Advertising on the web has grown to a point where it's pervasive, manipulative a
 - [Mullvad](https://mullvad.net)
 - [Proton VPN](https://protonvpn.com)
 - [IVPN](https://www.ivpn.net)
+
+[^1]: uBlock Origin works best on Firefox [for reasons detailed here.](https://github.com/gorhill/uBlock/wiki/uBlock-Origin-works-best-on-Firefox)

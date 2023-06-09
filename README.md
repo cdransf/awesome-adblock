@@ -53,10 +53,12 @@ Advertising on the web has grown to a point where it's pervasive, manipulative a
 - [Super Agent](https://www.super-agent.com)
 
 #### Firefox    
+- [Super Agent](https://www.super-agent.com)
 - [I still don't care about cookies](https://addons.mozilla.org/en-US/firefox/addon/istilldontcareaboutcookies/)
 - [Consent-O-Matic](https://addons.mozilla.org/en-US/firefox/addon/consent-o-matic/)
 
 #### Chrome    
+- [Super Agent](https://www.super-agent.com)
 - [I still don't care about cookies](https://chrome.google.com/webstore/detail/i-still-dont-care-about-c/edibdbjcniadpccecjdfdjjppcpchdlm)
 - [Consent-O-Matic](https://chrome.google.com/webstore/detail/consent-o-matic/mdjildafknihdffpkfmmpnpoiajfjnjd)
 

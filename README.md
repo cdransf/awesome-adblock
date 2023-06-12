@@ -38,10 +38,11 @@ Advertising on the web has grown to a point where it's pervasive, manipulative a
 - [DecentralEyes](https://chrome.google.com/webstore/detail/decentraleyes/ldpochfccmkkmhdbclfhpagapcfdljkj)
 - [NoScript](https://chrome.google.com/webstore/detail/noscript/doojmbjmlfjjnbmnoijecmcbfeoakpjm)
 
-### Network / DNS blocking
+### Network / DNS / hosts blocking
 - [NextDNS](https://nextdns.io)
 - [Pi-hole](https://pi-hole.net)
 - [Quad9](https://quad9.net)
+- [Steven Black: hosts](https://github.com/StevenBlack/hosts)
 - [AdGuard](https://adguard-dns.io)
 - [1Blocker](https://1blocker.com): in addition to blocking ads, the app provides an on-device firewall to mitigate in-app tracking and logging.
 

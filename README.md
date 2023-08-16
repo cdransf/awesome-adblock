@@ -19,6 +19,7 @@ Advertising on the web has grown to a point where it's pervasive, manipulative a
 - [1Blocker](https://1blocker.com)
 - [Banish](https://apps.apple.com/us/app/banish-block-open-in-app/id1632848430): targeted specifically at blocking 'Open in App' prompts.
 - [Stop the Madness](https://underpassapp.com/StopTheMadness/): mitigates a number of modern anti-patterns such as hyperlink auditing, clickjacking, tracking beacons, URL shorteners and so forth.
+- [Unsmartifier](https://apps.apple.com/us/app/unsmartifier/id1587069869): removes smart app banners.
 - [Hush](https://oblador.github.io/hush/)
 
 #### Firefox    

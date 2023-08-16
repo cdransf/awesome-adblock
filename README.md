@@ -16,6 +16,7 @@ Advertising on the web has grown to a point where it's pervasive, manipulative a
 ### Browser-based blocking
 
 #### Safari    
+- [AdGuard](https://adguard.com)
 - [1Blocker](https://1blocker.com)
 - [Banish](https://apps.apple.com/us/app/banish-block-open-in-app/id1632848430): targeted specifically at blocking 'Open in App' prompts.
 - [Stop the Madness](https://underpassapp.com/StopTheMadness/): mitigates a number of modern anti-patterns such as hyperlink auditing, clickjacking, tracking beacons, URL shorteners and so forth.
@@ -28,18 +29,21 @@ Advertising on the web has grown to a point where it's pervasive, manipulative a
 - [Disable Page Visibility API](https://addons.mozilla.org/en-US/firefox/addon/disable-page-visibility/)
 - [ClearURLs](https://addons.mozilla.org/en-US/firefox/addon/clearurls/)
 - [DecentralEyes](https://addons.mozilla.org/en-US/firefox/addon/decentraleyes/)
+- [NoScript](https://addons.mozilla.org/en-US/firefox/addon/noscript/)
 
 #### Chrome    
-- [uBlock Origin](https://ublockorigin.com)
+- [uBlock Origin](https://ublockorigin.com)[^1]
 - [Privacy Badger](https://privacybadger.org)
 - [Disable Page Visibility API](https://chrome.google.com/webstore/detail/disable-page-visibility-a/eecfoibnnhheckhfokpihgefmlnenofb)
 - [ClearURLs](https://chrome.google.com/webstore/detail/clearurls/lckanjgmijmafbedllaakclkaicjfmnk)
 - [DecentralEyes](https://chrome.google.com/webstore/detail/decentraleyes/ldpochfccmkkmhdbclfhpagapcfdljkj)
+- [NoScript](https://chrome.google.com/webstore/detail/noscript/doojmbjmlfjjnbmnoijecmcbfeoakpjm)
 
-### Network / DNS blocking
+### Network / DNS / hosts blocking
 - [NextDNS](https://nextdns.io)
 - [Pi-hole](https://pi-hole.net)
 - [Quad9](https://quad9.net)
+- [Steven Black: hosts](https://github.com/StevenBlack/hosts)
 - [AdGuard](https://adguard-dns.io)
 - [1Blocker](https://1blocker.com): in addition to blocking ads, the app provides an on-device firewall to mitigate in-app tracking and logging.
 
@@ -52,10 +56,12 @@ Advertising on the web has grown to a point where it's pervasive, manipulative a
 - [Super Agent](https://www.super-agent.com)
 
 #### Firefox    
+- [Super Agent](https://www.super-agent.com)
 - [I still don't care about cookies](https://addons.mozilla.org/en-US/firefox/addon/istilldontcareaboutcookies/)
 - [Consent-O-Matic](https://addons.mozilla.org/en-US/firefox/addon/consent-o-matic/)
 
 #### Chrome    
+- [Super Agent](https://www.super-agent.com)
 - [I still don't care about cookies](https://chrome.google.com/webstore/detail/i-still-dont-care-about-c/edibdbjcniadpccecjdfdjjppcpchdlm)
 - [Consent-O-Matic](https://chrome.google.com/webstore/detail/consent-o-matic/mdjildafknihdffpkfmmpnpoiajfjnjd)
 
@@ -75,3 +81,5 @@ Advertising on the web has grown to a point where it's pervasive, manipulative a
 - [Mullvad](https://mullvad.net)
 - [Proton VPN](https://protonvpn.com)
 - [IVPN](https://www.ivpn.net)
+
+[^1]: uBlock Origin works best on Firefox [for reasons detailed here.](https://github.com/gorhill/uBlock/wiki/uBlock-Origin-works-best-on-Firefox)

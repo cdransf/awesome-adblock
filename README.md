@@ -26,6 +26,7 @@ Advertising on the web has grown to a point where it's pervasive, manipulative a
 #### Firefox    
 - [uBlock Origin](https://ublockorigin.com)
 - [Privacy Badger](https://privacybadger.org)
+- [Stop the Madness](https://underpassapp.com/StopTheMadness/)
 - [Disable Page Visibility API](https://addons.mozilla.org/en-US/firefox/addon/disable-page-visibility/)
 - [ClearURLs](https://addons.mozilla.org/en-US/firefox/addon/clearurls/)
 - [DecentralEyes](https://addons.mozilla.org/en-US/firefox/addon/decentraleyes/)
@@ -34,6 +35,7 @@ Advertising on the web has grown to a point where it's pervasive, manipulative a
 #### Chrome    
 - [uBlock Origin](https://ublockorigin.com)[^1]
 - [Privacy Badger](https://privacybadger.org)
+- [Stop the Madness](https://underpassapp.com/StopTheMadness/)
 - [Disable Page Visibility API](https://chrome.google.com/webstore/detail/disable-page-visibility-a/eecfoibnnhheckhfokpihgefmlnenofb)
 - [ClearURLs](https://chrome.google.com/webstore/detail/clearurls/lckanjgmijmafbedllaakclkaicjfmnk)
 - [DecentralEyes](https://chrome.google.com/webstore/detail/decentraleyes/ldpochfccmkkmhdbclfhpagapcfdljkj)

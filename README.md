@@ -55,6 +55,7 @@ Advertising on the web has grown to a point where it's pervasive, manipulative a
 
 #### Safari    
 - [Super Agent](https://www.super-agent.com)
+- [Consent-O-Matic](https://apps.apple.com/gb/app/consent-o-matic/id1606897889)
 
 #### Firefox    
 - [Super Agent](https://www.super-agent.com)

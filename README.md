@@ -44,6 +44,7 @@ Advertising on the web has grown to a point where it's pervasive, manipulative a
 ### Network / DNS / hosts blocking
 - [NextDNS](https://nextdns.io)
 - [Pi-hole](https://pi-hole.net)
+- [Control D](https://controld.com/)
 - [Quad9](https://quad9.net)
 - [Steven Black: hosts](https://github.com/StevenBlack/hosts)
 - [1Blocker](https://1blocker.com): in addition to blocking ads, the app provides an on-device firewall to mitigate in-app tracking and logging.

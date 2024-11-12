@@ -16,6 +16,7 @@ Advertising on the web has grown to a point where it's pervasive, manipulative a
 ### Browser-based blocking
 
 #### Safari    
+- [Wipr 2](https://apps.apple.com/app/id1662217862)
 - [Magic Lasso](https://www.magiclasso.co)
 - [1Blocker](https://1blocker.com)
 - [Banish](https://apps.apple.com/us/app/banish-block-open-in-app/id1632848430): targeted specifically at blocking 'Open in App' prompts.
